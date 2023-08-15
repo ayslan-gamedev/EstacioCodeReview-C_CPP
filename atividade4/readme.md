@@ -14,7 +14,3 @@ Para explorar essa atividade, basta acessar os arquivos listados acima. Você po
 ## Licença
 
 Este código é licenciado sob a [GNU General Public License (GPL) versão 3.0](LICENSE), o que significa que as modificações feitas neste código também devem ser distribuídas sob os termos da mesma licença.
-
----
-Atenciosamente,
-[Seu Nome]
