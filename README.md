@@ -6,23 +6,28 @@ Bem-vindo ao repositório de Avaliação da Faculdade Estácio! Neste repositór
 
 Cada pasta neste repositório corresponde a uma atividade específica, contendo o enunciado do problema e o código desenvolvido para resolvê-lo em C e C++. Aqui está uma visão geral das atividades:
 
-1. **Atividade 1:** [Descrição da Atividade 1]
+1. **Atividade 1:** [Aquisição de Dados com Arduino no Tinkercad]
+   - Implementação de um circuito e programa em C para aquisição de dados com Arduino no Tinkercad.
    - Linguagens: C, C++
    - Arquivos: `atividade1/`
 
-2. **Atividade 2:** [Descrição da Atividade 2]
+2. **Atividade 2:** [Projeto de Trem Digital no Tinkercad]
+   - Desenvolvimento de um projeto de trem digital utilizando montagem no Tinkercad.
    - Linguagens: C, C++
    - Arquivos: `atividade2/`
 
-3. **Atividade 3:** [Descrição da Atividade 3]
+3. **Atividade 3:** [Comunicação Cliente-Servidor com Protocolo UDP]
+   - Criação de programas cliente e servidor para enviar mensagens em rede local usando o protocolo UDP.
    - Linguagens: C, C++
    - Arquivos: `atividade3/`
 
-4. **Atividade 4:** [Descrição da Atividade 4]
+4. **Atividade 4:** [Exemplo de Uso de Mutex em Situação Real]
+   - Elaboração de um programa de exemplo que utiliza Mutex para lidar com situações concorrentes.
    - Linguagens: C, C++
    - Arquivos: `atividade4/`
 
-5. **Atividade 5:** [Descrição da Atividade 5]
+5. **Atividade 5:** [Programa Multithread com Biblioteca pthreads]
+   - Desenvolvimento de um programa com função de cálculo e criação de múltiplas threads usando a biblioteca pthreads.
    - Linguagens: C, C++
    - Arquivos: `atividade5/`
 
