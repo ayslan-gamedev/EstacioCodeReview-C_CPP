@@ -1,10 +1,11 @@
 # Atividade 2: Projeto de Trem Digital no Tinkercad
 
-Nesta pasta, você encontrará a solução para a segunda atividade, que consiste em desenvolver um projeto de trem digital utilizando montagem no Tinkercad.
+Nesta pasta, você encontrará a solução para a segunda atividade, que consiste em desenvolver um projeto de trena digital utilizando montagem no Tinkercad.
+
+Link para o projeto: https://www.tinkercad.com/things/gCAAg5exPHD
 
 ## Arquivos
-
-- `codigo.c`: O código-fonte em linguagem C que implementa o projeto de trem digital.
+- `codigo.ino`: O código-fonte em linguagem C++ que implementa o projeto de trena digital.
 
 ## Como Usar
 
