@@ -1,8 +1,8 @@
-# Atividade 2: Projeto de Trem Digital no Tinkercad
+# Atividade 2: Projeto de Trena Digital no Tinkercad
 
 Nesta pasta, você encontrará a solução para a segunda atividade, que consiste em desenvolver um projeto de trena digital utilizando montagem no Tinkercad.
 
-Link para o projeto: https://www.tinkercad.com/things/gCAAg5exPHD
+[Link para o projeto no Tinkercad](https://www.tinkercad.com/things/gCAAg5exPHD)
 
 ![SNAP](https://github.com/ayslan-gamedev/EstacioCodeReview-C_CPP/blob/main/atividade2/Circuito.png)
 
