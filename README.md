@@ -45,7 +45,7 @@ Você pode explorar cada pasta de atividade para encontrar os códigos desenvolv
 
 Este projeto é licenciado sob a [GNU General Public License (GPL) versão 3.0](LICENSE), o que significa que as modificações feitas no código também devem ser distribuídas sob os termos da mesma licença.
 
-## 🤝 Como Contribuir
+## 🤝Como Contribuir
 
 1. Faça um **Fork** deste repositório.
 
