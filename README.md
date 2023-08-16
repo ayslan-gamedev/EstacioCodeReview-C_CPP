@@ -2,6 +2,8 @@
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/ayslan-gamedev/EstacioCodeReview-C_CPP/main?color=blue&style=flat-square)
 <a href="https://github.com/Ayslan-gamedev/EstacioCodeReview-C_CPP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ayslan-gamedev/EstacioCodeReview-C_CPP?color=red&style=flat-square"></a>
 
+Aluno: Ayslan Vieira Fontes - 2023 0329 8481
+
 Bem-vindo ao repositório de Avaliação da Faculdade Estácio! Neste repositório, você encontrará soluções para cinco atividades programadas em linguagens C e C++, parte do meu trabalho acadêmico na Faculdade Estácio.
 
 ## 📝Conteúdo
