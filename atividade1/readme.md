@@ -4,6 +4,9 @@ Nesta pasta, você encontrará a solução para a primeira atividade, que consis
 
 ## Arquivos
 
+- `Interruptor de Lampada.pdf`: Esquema Eletrico do projeto
+- `Circuito.png`: Imagem do Circuito do Arduino
+- `sistema mais codigo.jpg`: Print da tela mostrando circuito e codigo lado a lado.
 - `codigo.ino`: O código-fonte em linguagem C que implementa o programa para aquisição de dados.
 
 ## Como Usar
