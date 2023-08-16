@@ -33,6 +33,10 @@ Cada pasta neste repositório corresponde a uma atividade específica, contendo 
    - Linguagens: C, C++
    - Arquivos: `atividade5/`
 
+<br>
+
+- `enunciado.pdf`: O enunciado completo das atividadeS, fornecido pelo professor.
+
 ## ❓Como Usar
 
 Você pode explorar cada pasta de atividade para encontrar os códigos desenvolvidos e os enunciados correspondentes. Sinta-se à vontade para estudar, revisar e aprender com as soluções apresentadas. Se você encontrar alguma maneira de melhorar ou otimizar o código, ficarei feliz em receber contribuições e feedback construtivo.
