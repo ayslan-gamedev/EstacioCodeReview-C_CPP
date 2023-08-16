@@ -5,7 +5,6 @@ Nesta pasta, você encontrará a solução para a segunda atividade, que consist
 ## Arquivos
 
 - `codigo.c`: O código-fonte em linguagem C que implementa o projeto de trem digital.
-- `enunciado.pdf`: O enunciado completo da atividade, fornecido pelo professor.
 
 ## Como Usar
 
