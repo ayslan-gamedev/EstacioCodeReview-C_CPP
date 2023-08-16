@@ -35,7 +35,7 @@ Cada pasta neste repositório corresponde a uma atividade específica, contendo 
 
 <br>
 
-- `enunciado.pdf`: O enunciado completo das atividadeS, fornecido pelo professor.
+- `enunciado.pdf`: O enunciado completo das atividades, fornecido pelo professor.
 
 ## ❓Como Usar
 
