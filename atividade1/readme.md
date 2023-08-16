@@ -2,6 +2,10 @@
 
 Nesta pasta, você encontrará a solução para a primeira atividade, que consiste em criar um circuito e programa em C para a aquisição de dados utilizando a plataforma Arduino no simulador Tinkercad.
 
+[Link do projeto no tinkercad](https://www.tinkercad.com/things/fiHHs5sq5WC)
+
+![SNAP](https://github.com/ayslan-gamedev/EstacioCodeReview-C_CPP/blob/main/atividade1/Circuito.png?raw=true)
+
 ## Arquivos
 
 - `Interruptor de Lampada.pdf`: Esquema Eletrico do projeto
