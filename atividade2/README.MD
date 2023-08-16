@@ -3,8 +3,8 @@
 Nesta pasta, você encontrará a solução para a segunda atividade, que consiste em desenvolver um projeto de trena digital utilizando montagem no Tinkercad.
 
 Link para o projeto: https://www.tinkercad.com/things/gCAAg5exPHD
-[https://github.com/ayslan-gamedev/EstacioCodeReview-C_CPP/blob/main/atividade2/Circuito.png?raw=true]
 
+![SNAP](https://github.com/ayslan-gamedev/EstacioCodeReview-C_CPP/blob/main/atividade2/Circuito.png)
 
 ## Arquivos
 - `codigo.ino`: O código-fonte em linguagem C++ que implementa o projeto de trena digital.
