@@ -7,7 +7,11 @@ Nesta pasta, você encontrará a solução para a segunda atividade, que consist
 ![SNAP](https://github.com/ayslan-gamedev/EstacioCodeReview-C_CPP/blob/main/atividade2/Circuito.png)
 
 ## Arquivos
-- `codigo.ino`: O código-fonte em linguagem C++ que implementa o projeto de trena digital.
+
+- `Trena Digital.pdf`: Esquema Eletrico do projeto
+- `Circuito.png`: Imagem do Circuito do Arduino
+- `sistema mais codigo.jpg`: Print da tela mostrando circuito e codigo lado a lado.
+- `codigo.ino`: O código-fonte em linguagem C que implementa o programa para aquisição de dados.
 
 ## Como Usar
 
