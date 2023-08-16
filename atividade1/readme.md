@@ -4,7 +4,7 @@ Nesta pasta, você encontrará a solução para a primeira atividade, que consis
 
 ## Arquivos
 
-- `codigo.c`: O código-fonte em linguagem C que implementa o programa para aquisição de dados.
+- `codigo.ino`: O código-fonte em linguagem C que implementa o programa para aquisição de dados.
 - `enunciado.pdf`: O enunciado completo da atividade, fornecido pelo professor.
 
 ## Como Usar
