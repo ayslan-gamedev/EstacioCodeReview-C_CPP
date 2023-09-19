@@ -49,23 +49,6 @@ Você pode explorar cada pasta de atividade para encontrar os códigos desenvolv
 
 Este projeto é licenciado sob a [GNU General Public License (GPL) versão 3.0](LICENSE), o que significa que as modificações feitas no código também devem ser distribuídas sob os termos da mesma licença.
 
-## 🤝Como Contribuir
-
-1. Faça um **Fork** deste repositório.
-
-2. Clone o repositório para o seu ambiente local.
-
-3. Crie uma nova branch para a sua contribuição: `git checkout -b minha-contribuicao`.
-
-4. Faça as modificações desejadas.
-
-5. Faça commit das suas mudanças: `git commit -m "Minha contribuição: descrição das mudanças"`.
-
-6. Faça push das suas alterações: `git push origin minha-contribuicao`.
-
-7. Abra um **Pull Request** explicando suas modificações e suas intenções com a contribuição.
-
-
 ## 📞Contato
 
 Se você tiver alguma pergunta ou sugestão relacionada a este repositório, sinta-se à vontade para entrar em contato. Espero que estas soluções sejam úteis para você e para outros estudantes interessados em C e C++.
