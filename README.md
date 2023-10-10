@@ -18,7 +18,7 @@ Cada pasta neste repositório corresponde a uma atividade específica, contendo 
    - Arquivos: `atividade1/`
 
 2. **Atividade 2:** [Projeto de Trem Digital no Tinkercad]
-   - Desenvolvimento de um projeto de trem digital utilizando montagem no Tinkercad.
+   - Desenvolvimento de um projeto de trena digital utilizando montagem no Tinkercad.
    - Linguagens: C, C++
    - Arquivos: `atividade2/`
 
