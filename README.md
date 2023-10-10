@@ -24,7 +24,7 @@ Cada pasta neste repositório corresponde a uma atividade específica, contendo 
 
 3. **Atividade 3:** [Comunicação Cliente-Servidor com Protocolo UDP]
    - Criação de programas cliente e servidor para enviar mensagens em rede local usando o protocolo UDP.
-   - Linguagens: C, C++
+   - Linguagens: C
    - Arquivos: `atividade3/`
 
 4. **Atividade 4:** [Exemplo de Uso de Mutex em Situação Real]
